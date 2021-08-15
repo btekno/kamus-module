@@ -1,0 +1,13 @@
+{
+    "name": "Qamus",
+    "alias": "qamus",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Qamus\\Providers\\QamusServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,23 @@
+{
+    "name": "btekno/kamus-module",
+    "description": "Kamus Bahasa Daerah",
+    "authors": [
+        {
+            "name": "Noviyanto Rahmadi",
+            "email": "novay@btekno.id"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Qamus\\": ""
+        }
+    }
+}
